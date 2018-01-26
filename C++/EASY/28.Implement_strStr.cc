@@ -24,4 +24,5 @@ int main()
     Solution sol;
     int res=sol.strStr(haystack, needle);
     cout << res << endl;
+    return 0;
 }
